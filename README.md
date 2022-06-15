@@ -1,12 +1,12 @@
-# Age-and-Gender-Predection
+# Age-and-Gender-Prediction
 Python program to predict age and gender of a person
 
 In this I have tried to predict age and gender of a person from their facial feature with two different approaches.<br/>
 
 
-The "age_and_gender_predection.py" requires ["age.prototxt","dex_chalearn_iccv2015.caffemodel", "gender.prototxt" and "gender.caffemodel"](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/).<br/>
+The "age_and_gender_prediction.py" requires ["age.prototxt","dex_chalearn_iccv2015.caffemodel", "gender.prototxt" and "gender.caffemodel"](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/).<br/>
 
-To run it just copy the above mentioned files to the code directory and run the py file from terminal with<br/> ```python age_and_gender_predection.py``` <br/>or run it from an IDE.<br/>
+To run it just copy the above mentioned files to the code directory and run the py file from terminal with<br/> ```python age_and_gender_prediction.py``` <br/>or run it from an IDE.<br/>
 This approach uses caffeemodel to try to predict the age and gender.<br/><br/><br/>
 
 
